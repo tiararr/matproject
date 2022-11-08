@@ -1,2 +1,4 @@
 # matproject
-Matlab project by me
+This project is the final project that I made to get a bachelor's degree in statistics, with the title "Application of the Backpropagation Algorithm and Conjugate Gradient Optimization for the Classification of Laboratory Test Results." The data used is a dataset from the Mendeley website (https://data.mendeley.com/datasets/7kv3rctx7m/1).
+This project aims to classify by assuming that the decision about whether a patient should be hospitalized or simply treated as an outpatient is based solely on blood laboratory results. In the project, the data is divided into training and testing data with a 95:5 ratio. I use bootstrapping to do 100 times the amount of random sampling in my training data to make a good model. As a result, the data testing obtained an accuracy of 69.23%. It means the model can classify data with an accuracy of 69.23%.
+This project is far from perfect. I think as a further consideration, it would be better if a non-linear or hyperplane threshold was used.
