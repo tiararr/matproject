@@ -309,3 +309,4 @@ hasilts=[hasilts,akurasi_testing];
 
 meantr';
 hasilts';
+
